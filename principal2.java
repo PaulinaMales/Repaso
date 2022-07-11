@@ -7,8 +7,8 @@ public class principal2 {
         //AGREGANDO UN COMENTARIO PARA SUBIR A GIT
 
         Operaciones operacion1 = new Operaciones();
-
-
+        //SEGUNDO COMENTARIO PARA MANDAR SIGUIENTE COMMIT 
+        /**/
 
         String opcion = JOptionPane.showInputDialog(null,
                 "(1) MULTIPLICAR\n"
